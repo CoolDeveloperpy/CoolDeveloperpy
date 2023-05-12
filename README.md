@@ -1,4 +1,4 @@
-### Hi there 👋
+ 
 <h1 align="center">Hi👉, I'm Sheetal</h1>
 <h3 align="center">Python full stack developer from India</h3>
 <img align="right" alt="coder" width="500px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
