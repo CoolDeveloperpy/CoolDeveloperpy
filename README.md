@@ -5,15 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoolDeveloperpy&label=Profile%20views&color=0e75b6&style=flat" alt="CoolDeveloperpy" /> </p>
 
-# I’m currently working on **Django** <br>
+⨠ I’m currently working on **Django** <br>
 
-# I’m currently learning **Django Framework and Python full stack developer**<br>
+⨠ I’m currently learning **Django Framework and Python full stack developer**<br>⨠
+⨠ Ask me about **Python ,Tkinter, JavaScript, HTML, CSS,REACT**<br>
 
-# Ask me about **Python ,Tkinter, JavaScript, HTML, CSS,REACT**<br>
+⨠ How to contact me **sheetal.777mis@gmail.com**<br>
 
-# How to contact me **sheetal.777mis@gmail.com**<br>
-
-# Fun fact **I like watching Anime**<br>
+⨠ Fun fact **I like watching Anime**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
