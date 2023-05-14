@@ -1,19 +1,19 @@
  
-<h1 align="center">Hi👉, This is Sheetal</h1>
+<h1 align="center">Hi👋🏻, This is Sheetal</h1>
 <h3 align="center">Python full stack developer from India</h3>
 <img align="right" alt="coder" width="500px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoolDeveloperpy&label=Profile%20views&color=0e75b6&style=flat" alt="CoolDeveloperpy" /> </p>
 
--👉 I’m currently working on **Django** <br>
+# I’m currently working on **Django** <br>
 
--👉 I’m currently learning **Django Framework and Python full stack developer**<br>
+# I’m currently learning **Django Framework and Python full stack developer**<br>
 
--👉 Ask me about **Python ,Tkinter, JavaScript, HTML, CSS,REACT**<br>
+# Ask me about **Python ,Tkinter, JavaScript, HTML, CSS,REACT**<br>
 
--👉 How to reach me **sheetal.777mis@gmail.com**<br>
+# How to contact me **sheetal.777mis@gmail.com**<br>
 
--👉 Fun fact **I like watching Amine**<br>
+# Fun fact **I like watching Anime**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
